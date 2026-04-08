@@ -1,6 +1,5 @@
-## Hi there 👋
-
-I'm a <u>dumb teenager</u> who likes coding.
+# Salutations, my friend!
+I'm a dumb teenager who likes **coding**!
 
 ## Hobbies
 I enjoy a bunch of stuff...
