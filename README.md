@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**RafanHRayan/rafanhrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a <u>dumb teenager</u> who likes coding.
 
-Here are some ideas to get you started:
+## Hobbies
+I enjoy a bunch of stuff...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sideloading
+- Working on my GitBook documentation which holds a bunch of high school level subject readings.
+  - I'm poor sorry.
+- AI Stuff
+
+And a *bunch* more!
+
+## Languages
+These are ranked by how familiar I am with them.
+
+1. HTML
+2. CSS
+3. Luau (I use Roblox Studio :/)
+4. Python
+
+- Hopefully this grows...
+
+### Other Notes
+- I'm gonna try and learn Lua in general.
+- I'm avoiding Java on purpose.
